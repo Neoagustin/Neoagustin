@@ -4,9 +4,10 @@
 
 </div>
 
+![Agustin](https://github.com/user-attachments/assets/b49439d9-6919-4781-aa55-2190f89c8e73)
 
 
-![Agustin2](https://github.com/user-attachments/assets/8ff37d8c-4a4b-4817-a655-07a9b29e564f)
+
 
 
 <!--
