@@ -4,7 +4,8 @@
 
 </div>
 
-![Agustin](https://github.com/user-attachments/assets/b49439d9-6919-4781-aa55-2190f89c8e73)
+
+![Agustin2](https://github.com/user-attachments/assets/bf01326e-67d2-43b0-88c3-b6b9267bd9aa)
 
 
 
