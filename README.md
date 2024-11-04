@@ -1,4 +1,13 @@
-## Hi there 👋
+<div align="center">
+  
+## Hola, soy [Agustín Ancona](https://www.linkedin.com/in/agustin-ancona) 👋
+
+</div>
+
+
+
+![Agustin2](https://github.com/user-attachments/assets/8ff37d8c-4a4b-4817-a655-07a9b29e564f)
+
 
 <!--
 **Neoagustin/Neoagustin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
