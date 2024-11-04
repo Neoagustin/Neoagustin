@@ -27,14 +27,14 @@ Soy Agustín Ancona, Desarrollador Web Full Stack con más de un año de experie
 <td width="50%">
   <h3 align="center">Plataforma de Cursos</h3>
   <div align="center">
-    <a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
-      <img src="https://github.com/user-attachments/assets/66aa4d44-bf86-4e83-a30f-980c9da39506" width="400" alt="Curso básico android">
+    <a href="https://github.com/Neoagustin/Proyectos/tree/main/Plataforma%20de%20Cursos%20-%20Desperta%20a%20lo%20Eterno" target="_blank">
+      <img src="https://github.com/user-attachments/assets/66aa4d44-bf86-4e83-a30f-980c9da39506" width="400" alt="Plataforma de Cursos">
     </a>
         <p>
-          <a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
+          <a href="https://github.com/Neoagustin/Proyectos/tree/main/Plataforma%20de%20Cursos%20-%20Desperta%20a%20lo%20Eterno" target="_blank">
             <img src="https://img.shields.io/badge/CÓDIGO-%23222.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
           </a>
-          <a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
+          <a href="https://desperta-a-lo-eterno.netlify.app/" target="_blank">
             <img src="https://img.shields.io/badge/-Visitar%20Sitio-%23F24E1E?style=for-the-badge" alt="Visitar Sitio">
           </a>
         </p>
@@ -48,13 +48,13 @@ Soy Agustín Ancona, Desarrollador Web Full Stack con más de un año de experie
                <br>
 <h3 align="center">E-Commerce</h3>
 <div align="center">                                       
-<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank"><img src="https://github.com/user-attachments/assets/14d00b94-45f3-4d3d-89c5-f99ebf088932" width="400" alt="Curso arquitectura MVVM"></a>
+<a href="https://github.com/Neoagustin/Proyectos/tree/main/E-Commerce%20-%20Mercadito" target="_blank"><img src="https://github.com/user-attachments/assets/14d00b94-45f3-4d3d-89c5-f99ebf088932" width="400" alt="E-Commerce"></a>
 <br>
         <p>
-          <a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
+          <a href="https://github.com/Neoagustin/Proyectos/tree/main/E-Commerce%20-%20Mercadito" target="_blank">
             <img src="https://img.shields.io/badge/CÓDIGO-%23222.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
           </a>
-          <a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
+          <a href="https://mercadito-lac.vercel.app/" target="_blank">
             <img src="https://img.shields.io/badge/-Visitar%20Sitio-%23F24E1E?style=for-the-badge" alt="Visitar Sitio">
           </a>
         </p>
