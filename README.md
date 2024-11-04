@@ -38,9 +38,10 @@ Soy Agustín Ancona, Desarrollador Web Full Stack con más de un año de experie
             <img src="https://img.shields.io/badge/-Visitar%20Sitio-%23F24E1E?style=for-the-badge" alt="Visitar Sitio">
           </a>
         </p>
-        <p>
-          Aprende a programar aplicaciones <strong>Android con Kotlin desde cero</strong> - En este curso aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. Curso <strong>GRATUITO de 12 horas</strong> con todo el código disponible para descargar.
-        </p>
+<p>
+  Despertá a lo Eterno es una plataforma interactiva para cursos en línea, diseñada para ofrecer una experiencia de aprendizaje accesible y atractiva. La plataforma se centra en una interfaz intuitiva y visualmente atractiva, permitiendo a los usuarios navegar fácilmente y acceder al contenido educativo de manera ágil. Además, se adapta perfectamente a diferentes dispositivos.
+</p>
+
   </div>
 </td>
 
@@ -58,9 +59,11 @@ Soy Agustín Ancona, Desarrollador Web Full Stack con más de un año de experie
             <img src="https://img.shields.io/badge/-Visitar%20Sitio-%23F24E1E?style=for-the-badge" alt="Visitar Sitio">
           </a>
         </p>
-        <p>
-          Aprende a programar aplicaciones <strong>Android con Kotlin desde cero</strong> - En este curso aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. Curso <strong>GRATUITO de 12 horas</strong> con todo el código disponible para descargar.
-        </p>
+<p>
+  Mercadito es una aplicación de e-commerce para la venta de productos electrónicos, con carrito de compras, inicio de sesión y administración de usuarios. El objetivo era ofrecer una experiencia de usuario fluida y completa, permitiendo a los clientes navegar por productos, agregar artículos al carrito, realizar compras y gestionar su perfil.
+</p>
+
+
 </div>                                                             
 </table>                                                                                 
 </div>
