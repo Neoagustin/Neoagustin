@@ -27,19 +27,19 @@ Soy Agustín Ancona, Desarrollador Web Full Stack con más de un año de experie
 <td width="50%">
   <h3 align="center">Plataforma de Cursos</h3>
   <div align="center">
-    <a href="https://github.com/Neoagustin/Proyectos/tree/main/Plataforma%20de%20Cursos%20-%20Desperta%20a%20lo%20Eterno" target="_blank">
-      <img src="https://github.com/user-attachments/assets/66aa4d44-bf86-4e83-a30f-980c9da39506" width="400" alt="Plataforma de Cursos">
+    <a href="https://github.com/Neoagustin/Proyectos/tree/main/Plataforma%20de%20Cursos%20-%20Rompiendo%20Barreras" target="_blank">
+      <img src="https://github.com/user-attachments/assets/2f2bbd54-98f6-4b75-9e7f-723397d8672c" width="400" alt="Plataforma de Cursos">
     </a>
         <p>
-          <a href="https://github.com/Neoagustin/Proyectos/tree/main/Plataforma%20de%20Cursos%20-%20Desperta%20a%20lo%20Eterno" target="_blank">
+          <a href="https://github.com/Neoagustin/Proyectos/tree/main/Plataforma%20de%20Cursos%20-%20Rompiendo%20Barreras" target="_blank">
             <img src="https://img.shields.io/badge/CÓDIGO-%23222.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
           </a>
-          <a href="https://desperta-a-lo-eterno.netlify.app/" target="_blank">
+          <a href="https://rompiendo-barreras-pf.vercel.app/" target="_blank">
             <img src="https://img.shields.io/badge/-Visitar%20Sitio-%23F24E1E?style=for-the-badge" alt="Visitar Sitio">
           </a>
         </p>
 <p>
-  Despertá a lo Eterno es una plataforma interactiva para cursos en línea, diseñada para ofrecer una experiencia de aprendizaje accesible y atractiva. La plataforma se centra en una interfaz intuitiva y visualmente atractiva, permitiendo a los usuarios navegar fácilmente y acceder al contenido educativo de manera ágil. Además, se adapta perfectamente a diferentes dispositivos.
+Rompiendo Barreras es una aplicación diseñada para transformar la experiencia de aprendizaje de idiomas. La plataforma ofrece una experiencia adaptada según el rol de usuario, fomentando la educación personalizada y colaborativa.
 </p>
 
   </div>
